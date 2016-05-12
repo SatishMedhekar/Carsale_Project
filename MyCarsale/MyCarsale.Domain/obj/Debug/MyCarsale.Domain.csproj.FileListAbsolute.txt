@@ -1,0 +1,7 @@
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Domain\bin\Debug\MyCarsale.Domain.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Domain\bin\Debug\MyCarsale.Domain.pdb
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Domain\bin\Debug\AutoMapper.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Domain\bin\Debug\AutoMapper.xml
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Domain\obj\Debug\MyCarsale.Domain.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Domain\obj\Debug\MyCarsale.Domain.pdb
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Domain\obj\Debug\MyCarsale.Domain.csprojResolveAssemblyReference.cache

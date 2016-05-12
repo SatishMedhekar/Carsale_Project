@@ -1,0 +1,16 @@
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\MyCarSale.API.dll.config
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\MyCarSale.API.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\MyCarSale.API.pdb
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\Autofac.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\Newtonsoft.Json.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\System.Net.Http.Formatting.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\System.Web.Http.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\Autofac.xml
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\Newtonsoft.Json.xml
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\System.Net.Http.Formatting.xml
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\bin\Debug\System.Web.Http.xml
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\obj\Debug\MyCarSale.API.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\obj\Debug\MyCarSale.API.pdb
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarSale.API\obj\Debug\MyCarSale.API.csprojResolveAssemblyReference.cache

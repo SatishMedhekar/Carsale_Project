@@ -1,0 +1,9 @@
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Client\obj\Debug\MyCarsale.Client.csprojResolveAssemblyReference.cache
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Client\bin\Debug\MyCarsale.Client.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Client\bin\Debug\MyCarsale.Client.pdb
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Client\obj\Debug\MyCarsale.Client.dll
+C:\Satish\Practice\HandsOn\CarSaleProject\MyCarsale\MyCarsale.Client\obj\Debug\MyCarsale.Client.pdb
